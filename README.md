@@ -1,9 +1,9 @@
-Things that work:
+**Things that work:**
 * Logging into the server
 * Displaying the movies in the server
 * Logging out of the server
 
-Things that don't work:
+**Things that don't work:**
 * Literally everything else
 
 To interested developers:
@@ -15,7 +15,7 @@ Postman tool was helpful to me in understanding Jellyfin's API. I've hardcoded t
 
 Alternatively, you can write logic to automatically fetch this value.
 
-Screenshots:
+**Screenshots:**
 
 Login Page with all fields empty:
 
