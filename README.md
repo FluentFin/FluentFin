@@ -1,10 +1,10 @@
 Things that work:
-*Logging into server
-*Displaying the movies in the server
-*Logging out of server
+* Logging into server
+* Displaying the movies in the server
+* Logging out of server
 
 Things that don't work:
-*Literally everything else
+* Literally everything else
 
 To interested developers:
 If you're facing issues logging into your server, make sure there aren't any slashes in the host field after your port number. Your host field should look something like this: "http://localhost:8096".
