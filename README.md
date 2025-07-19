@@ -17,12 +17,22 @@ Alternatively, you can write logic to automatically fetch this value.
 
 Screenshots:
 
+Login Page with all fields empty:
+
 ![Login Page with all fields empty](screenshots/FluentFin_loginPage_Empty.png)
+
+Error displayed when server is unreachable:
 
 ![Error displayed when server is unreachable](screenshots/FluentFin_loginPage_Error.png)
 
+Login Page - Authentication in progress:
+
 ![Login Page - Authentication in progress](screenshots/FluentFin_loginPage_Login.png)
 
+Movies Page:
+
 ![Movies Page](screenshots/FluentFin_moviesPage.png)
+
+Sign Out Pop-up Window:
 
 ![Sign Out Pop-up Window](screenshots/FluentFin_signOut.png)
