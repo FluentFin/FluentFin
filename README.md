@@ -36,3 +36,7 @@ Movies Page:
 Sign Out Pop-up Window:
 
 ![Sign Out Pop-up Window](screenshots/FluentFin_signOut.png)
+
+Movies Page Light Mode:
+
+![Movies Page](screenshots/FluentFin_moviesPage_LightMode.png)
